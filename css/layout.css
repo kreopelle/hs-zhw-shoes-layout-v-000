@@ -25,13 +25,13 @@
 /* Posititoning Classes */
 .deals {
   float: left;
-  width: 31.33%;
+  width: 32%;
   margin-top: 2%;
-  margin-right: 2%;
+  margin-left: 2%;
 }
 
 .deals.first {
-  margin-right: 0%;
+  margin-left: 0%;
 }
 
 .col-1 {
