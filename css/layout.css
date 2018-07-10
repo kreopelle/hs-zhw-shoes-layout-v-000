@@ -28,6 +28,10 @@
   width: 32%;
 }
 
+class["col-"] {
+  
+}
+
 
 /*.deals {
   float: left;
