@@ -35,7 +35,7 @@
 }
 
 .col-container {
-  
+  display: table;
 }
 
 .col-1 {
