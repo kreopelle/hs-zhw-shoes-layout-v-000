@@ -47,5 +47,6 @@ h2 {
 }
 
 #details div.wrapper div {
-  
+  float: right;
+  width: 33.33%
 }
