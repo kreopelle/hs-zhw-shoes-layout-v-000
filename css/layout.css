@@ -27,7 +27,7 @@
   float: left;
   width: 31.33%;
   margin-top: 2%;
-  margin-right: 2%;
+  margin-left: 2%;
 }
 
 .col-1 {
@@ -50,5 +50,5 @@ h2 {
 #details div.wrapper div {
   float: left;
   width: 32%;
-  margin-right: 2%;
+  margin-left: 2%;
 }
