@@ -34,20 +34,14 @@
   margin-left: 0%;
 }
 
-.col-container {
-  display: table;
-  background: none;
-  width: 100%;
-}
-
 .col-1 {
-  display: table-cell;
+  float: left;
   width: 64%;
   margin: 0% 2% 2% 0%;
 }
 
 .col-2 {
-  display: table-cell;
+  float: left;
   width: 34%;
 }
 
