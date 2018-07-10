@@ -37,6 +37,7 @@
 .col-container {
   display: table;
   background: none;
+  width: 100%;
 }
 
 .col-1 {
