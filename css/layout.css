@@ -40,8 +40,8 @@
   width: 100%;
 }
 
-/*.col-1 {
-  float: left;
+.col-1 {
+  display: table-cell;
   width: 64%;
   margin: 0% 2% 2% 0%;
   display: inline-block;
@@ -51,7 +51,7 @@
   float: left;
   width: 34%;
   display: inline-block;
-}*/
+}
 
 h2 {
   padding: 2% 0%;
