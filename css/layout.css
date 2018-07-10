@@ -28,3 +28,7 @@
   width: 30%;
   margin-left: 2%;
 }
+
+* {
+  box-sizing: border-box;
+}
