@@ -23,6 +23,7 @@
 }
 
 /* Posititoning Classes */
+
 .col-3 {
   float: left;
   width: 32%;
@@ -39,6 +40,10 @@
 
 .first {
   margin-left: 0%
+}
+
+h2 {
+  padding: 2% 0%;
 }
 
 
