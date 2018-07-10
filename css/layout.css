@@ -44,13 +44,11 @@
   display: table-cell;
   width: 64%;
   margin: 0% 2% 2% 0%;
-  display: inline-block;
 }
 
 .col-2 {
   display: table-cell;
   width: 34%;
-  display: inline-block;
 }
 
 h2 {
