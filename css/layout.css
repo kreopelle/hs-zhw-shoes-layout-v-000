@@ -27,11 +27,11 @@
   float: left;
   width: 31.33%;
   margin-top: 2%;
-  margin-left: 2%;
+  margin-right: 2%;
 }
 
-.shadow.deals.first {
-  margin-left: 0%;
+.deals.first {
+  margin-right: 0%;
 }
 
 .col-1 {
