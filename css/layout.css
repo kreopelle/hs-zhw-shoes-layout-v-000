@@ -37,13 +37,12 @@
 .col-1 {
   float: left;
   width: 64%;
-  margin: 0% 2% 2% 0%;
+  margin-right: 2%;
 }
 
 .col-2 {
   float: left;
   width: 34%;
-  margin-bottom: 2%;
 }
 
 h2 {
