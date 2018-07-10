@@ -35,6 +35,11 @@
   margin: 2%;
 }
 
+.col-2 {
+  float: right;
+  width: 32%;
+}
+
 * {
   box-sizing: border-box;
 }
