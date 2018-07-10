@@ -38,7 +38,7 @@
 }
 
 .col-2 {
-  float: right;
+  float: left;
   width: 34%;
   display: inline-block;
 }
