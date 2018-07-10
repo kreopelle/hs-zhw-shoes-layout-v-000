@@ -54,5 +54,6 @@ h2 {
 }
 
 .col-test {
+  column-count: 3;
   
 }
