@@ -48,7 +48,7 @@
 }
 
 .col-2 {
-  float: left;
+  display: table-cell;
   width: 34%;
   display: inline-block;
 }
