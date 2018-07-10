@@ -39,6 +39,7 @@
 .col-2 {
   float: right;
   width: 34%;
+  display: inline-block;
 }
 
 h2 {
