@@ -33,6 +33,7 @@
   float: left;
   width: 64%;
   margin: 0% 2% 2% 0%;
+  display: inline-block;
 }
 
 .col-2 {
